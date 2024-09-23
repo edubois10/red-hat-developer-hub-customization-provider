@@ -4,7 +4,7 @@
     "isExpanded": false,
     "links": [
       {
-        "iconUrl": "/homepage/icons/icons8/web.png",
+        "iconUrl": "https://test-homepage.apps.cluster-s5wtj.s5wtj.sandbox1936.opentlc.com/images/icons/icons8/web.png",
         "label": "Website",
         "url": "https://janus-idp.io/community"
       },
