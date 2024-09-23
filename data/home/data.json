@@ -3,11 +3,11 @@
     "title": "COMMUNITY",
     "isExpanded": false,
     "links": [
-      /*{
-        "iconUrl": "https://test-homepage.apps.cluster-s5wtj.s5wtj.sandbox1936.opentlc.com/images/icons8/github.png",
+      {
+        "iconUrl": "/homepage/icons/icons8/github.png",
         "label": "Website",
         "url": "https://janus-idp.io/community"
-      },*/
+      },
       {
         "iconUrl": "/homepage/icons/icons8/web.png",
         "label": "Website 2",
