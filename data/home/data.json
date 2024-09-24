@@ -1,17 +1,80 @@
 [
   {
-    "title": "COMMUNITY",
-    "isExpanded": false,
+    "title": "BIT Internal",
+    "isExpanded": true,
     "links": [
       {
-        "iconUrl": "/homepage/icons/icons8/github.png",
-        "label": "Website",
-        "url": "https://janus-idp.io/community"
+        "iconUrl": "https://test-homepage.apps.cluster-s5wtj.s5wtj.sandbox1936.opentlc.com/images/confluence-logo.png",
+        "label": "Confluence",
+        "url": "https://google.com/"
       },
       {
-        "iconUrl": "/homepage/icons/icons8/web.png",
-        "label": "Website 2",
-        "url": "https://janus-idp.io/community"
+        "iconUrl": "https://test-homepage.apps.cluster-s5wtj.s5wtj.sandbox1936.opentlc.com/images/jira-logo.png",
+        "label": "Jira",
+        "url": "https://google.com/"
+      },
+      {
+        "iconUrl": "https://test-homepage.apps.cluster-s5wtj.s5wtj.sandbox1936.opentlc.com/images/toolchain-logo.png",
+        "label": "Toolchain Portal",
+        "url": "https://google.com/"
+      },
+      {
+        "iconUrl": "https://test-homepage.apps.cluster-s5wtj.s5wtj.sandbox1936.opentlc.com/images/openshift.png",
+        "label": "CCP Portal",
+        "url": "https://google.com/"
+      },
+      {
+        "iconUrl": "https://test-homepage.apps.cluster-s5wtj.s5wtj.sandbox1936.opentlc.com/images/remedy-logo.png",
+        "label": "Remedy",
+        "url": "https://google.com/"
+      },
+      {
+        "iconUrl": "https://test-homepage.apps.cluster-s5wtj.s5wtj.sandbox1936.opentlc.com/images/toolchain-logo.png",
+        "label": "BIT Restaurants",
+        "url": "https://google.com/"
+      }
+
+    ]
+  },
+  {
+    "title": "Developer Tools",
+    "isExpanded": true,
+    "links": [
+      {
+        "iconUrl": "https://test-homepage.apps.cluster-s5wtj.s5wtj.sandbox1936.opentlc.com/images/devspaces.png",
+        "label": "DevSpaces",
+        "url": "https://google.com/"
+      },
+      {
+        "iconUrl": "https://test-homepage.apps.cluster-s5wtj.s5wtj.sandbox1936.opentlc.com/images/bitbucket-logo.png",
+        "label": "Bitbucket",
+        "url": "https://google.com/"
+      },
+      {
+        "iconUrl": "https://test-homepage.apps.cluster-s5wtj.s5wtj.sandbox1936.opentlc.com/images/nexus.png",
+        "label": "Nexus",
+        "url": "https://google.com/"
+      },
+      {
+        "iconUrl": "https://test-homepage.apps.cluster-s5wtj.s5wtj.sandbox1936.opentlc.com/images/youtube-play.png",
+        "label": "Youtube",
+        "url": "https://youtube.com/"
+      }
+    ]
+  },
+  {
+    "title": "OpenShift Clusters",
+    "isExpanded": true,
+    "links": [
+      {
+        "iconUrl": "https://test-homepage.apps.cluster-s5wtj.s5wtj.sandbox1936.opentlc.com/images/openshift.png",
+        "label": "Engineering Cluster",
+        "url": "https://google.com/"
+      },
+      {
+        "iconUrl": "https://test-homepage.apps.cluster-s5wtj.s5wtj.sandbox1936.opentlc.com/images/openshift.png",
+        "label": "PVZ Shared Non Prod Cluster",
+        "url": "https://google.com/"
       }
     ]
   }
